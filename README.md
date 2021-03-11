@@ -2,7 +2,7 @@
 Exploration of pain in EHRs and development of a pain vocabulary
 
 Link to pain vocabulary prior to edits suggested by clinicians:
-https://emckclac-my.sharepoint.com/:x:/g/personal/k20110374_kcl_ac_uk/ESf_i0KaskdJj6agctvCMkkBr2F0Mc-0bF9aywh7XSrR1g?e=h64ZNP
+https://docs.google.com/spreadsheets/d/1z-6619UBdvwWrB9Sz4b1rbjDzuslOGCpts2DNc0naCc/edit?usp=sharing
 
 Embeddings folder - contains python scripts for embedding models built using MIMIC-III
 
