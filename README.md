@@ -1,4 +1,4 @@
-# pain_vocabulary
+# pain_lexicon
 Exploration of pain in EHRs and development of a pain vocabulary
 
 Link to pain vocabulary prior to edits suggested by clinicians:
