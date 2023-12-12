@@ -8,4 +8,4 @@ Embeddings folder - contains python scripts for embedding models built using MIM
 
 Pain exploration folder - contains scripts used to explore words similar to pain 
 
-Publication: https://www.frontiersin.org/articles/10.3389/fdgth.2021.778305/full
+Publication: [Development of a Lexicon for Pain](https://www.frontiersin.org/articles/10.3389/fdgth.2021.778305/full)
